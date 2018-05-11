@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "proxy",
+            "type": "npm",
+            "script": "proxy",
+            "problemMatcher": [],
+            "isBackground": true
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+node_modules/
+app/
+.nyc_output/
+coverage/
+package-lock.json
+dev.private.json
+.vscode/settings.json
