@@ -16,6 +16,8 @@ Some technical details.
 
 ![Architecture](./traktbot-architecture.png)
 
+*You can find a basic sample to use as a base for your own bots here: [BaseBotNode_v3](https://github.com/magencio/BaseBotNode_v3).*
+
 ## TODO
 This sample is not finished yet. There are some things left to do:
 - Implement the call to trakt.tv API to add watched episode for authenticated user.

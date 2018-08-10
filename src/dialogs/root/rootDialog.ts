@@ -1,6 +1,5 @@
 import { Session, LuisRecognizer, IntentDialog, EntityRecognizer, Dialog, IDialogWaterfallStep, IDialogResult, IIntentRecognizerResult, ResumeReason } from 'botbuilder';
 import { BotAuthenticator } from 'botauth/lib';
-import * as traktTvService from '../../services/traktTv';
 import * as replies from './rootReplies';
 import { Episode } from '../../model';
 
